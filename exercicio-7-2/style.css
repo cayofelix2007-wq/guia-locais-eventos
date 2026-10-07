@@ -8,7 +8,7 @@
    rodapé sempre embaixo */
 body {
   font-family: system-ui, sans-serif;
-  color: #333;
+  color: #ffffff;
   line-height: 1.6;
   display: grid;
   grid-template-areas:
