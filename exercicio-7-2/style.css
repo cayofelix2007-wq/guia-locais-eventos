@@ -27,7 +27,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   gap: 0.5rem 1.5rem;
-  background: #2980b9;
+  background: #8f5b91;
   color: #fff;
   padding: 0.75rem 1.5rem;
 }
@@ -58,11 +58,11 @@ body {
 }
 
 .menu-lista a:hover {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0);
 }
 
 .menu-lista a:focus {
-  outline: 2px solid #f1c40f;
+  outline: 2px solid #0ff180;
   outline-offset: 2px;
 }
 
